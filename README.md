@@ -10,6 +10,8 @@ leewhich 的笔记本
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.leewhich.cn/my-github-repos)
+* [某公司数字化平台测试实践（一）](http://www.leewhich.cn/articles/2019/10/17/1571284827412.html)
 * [dear car](http://www.leewhich.cn/articles/2019/10/15/1571150711959.html)
 * [Netty-TCP实践（一）](http://www.leewhich.cn/articles/2019/10/15/1571122531473.html)
 * [Netty-UDP实践（一）](http://www.leewhich.cn/articles/2019/10/15/1571122245722.html)
@@ -19,7 +21,7 @@ leewhich 的笔记本
 * [mysql5.7主从复制实践](http://www.leewhich.cn/articles/2019/10/15/1571119060644.html)
 * [cmd和linux常用命令汇总](http://www.leewhich.cn/articles/2019/10/15/1571116734151.html)
 * [linux通过nfs挂载共享文档](http://www.leewhich.cn/articles/2019/10/15/1571116600574.html)
-* [linux部署图片服务器](http://www.leewhich.cn/articles/2019/10/15/1571116356851.html)
+* [linux部署文件服务器](http://www.leewhich.cn/articles/2019/10/15/1571116356851.html)
 * [k8s部署实践（二）yaml文件](http://www.leewhich.cn/articles/2019/10/15/1571112720904.html)
 * [2019的旅行记---自驾青海甘肃大环线](http://www.leewhich.cn/articles/2019/10/15/1571109954290.html)
 * [k8s部署实践（一）搭建](http://www.leewhich.cn/articles/2019/10/15/1571108228226.html)
