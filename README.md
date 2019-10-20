@@ -10,6 +10,7 @@ leewhich 的笔记本
 
 ### 最新
 
+* [在BBS项目中结合Elasticsearch（一）](http://www.leewhich.cn/articles/2019/10/20/1571577544030.html)
 * [公司内部软件地址汇总](http://www.leewhich.cn/articles/2019/10/18/1571391507412.html)
 * [我在 GitHub 上的开源项目](http://www.leewhich.cn/my-github-repos)
 * [某公司数字化平台测试实践（一）](http://www.leewhich.cn/articles/2019/10/17/1571284827412.html)
