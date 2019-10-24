@@ -10,6 +10,7 @@ leewhich 的笔记本
 
 ### 最新
 
+* [Go的学习记录](http://www.leewhich.cn/articles/2019/10/24/1571907843673.html)
 * [在BBS项目中结合Elasticsearch（一）](http://www.leewhich.cn/articles/2019/10/20/1571577544030.html)
 * [公司内部软件地址汇总](http://www.leewhich.cn/articles/2019/10/18/1571391507412.html)
 * [我在 GitHub 上的开源项目](http://www.leewhich.cn/my-github-repos)
@@ -29,6 +30,9 @@ leewhich 的笔记本
 * [k8s部署实践（一）搭建](http://www.leewhich.cn/articles/2019/10/15/1571108228226.html)
 * [drools学习笔记（二）示例](http://www.leewhich.cn/articles/2019/10/15/1571102872058.html)
 * [drools学习笔记（一）语法](http://www.leewhich.cn/articles/2019/10/14/1571046304096.html)
+
+### 热门
+
 * [世界，你好！](http://www.leewhich.cn/hello-solo)
 
 
