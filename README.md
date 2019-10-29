@@ -10,12 +10,12 @@ leewhich 的笔记本
 
 ### 最新
 
+* [极客时间学习计划](http://www.leewhich.cn/articles/2019/10/29/1572320532775.html)
 * [Go的学习记录](http://www.leewhich.cn/articles/2019/10/24/1571907843673.html)
 * [在BBS项目中结合Elasticsearch（一）](http://www.leewhich.cn/articles/2019/10/20/1571577544030.html)
 * [公司内部软件地址汇总](http://www.leewhich.cn/articles/2019/10/18/1571391507412.html)
 * [我在 GitHub 上的开源项目](http://www.leewhich.cn/my-github-repos)
 * [某公司数字化平台测试实践（一）](http://www.leewhich.cn/articles/2019/10/17/1571284827412.html)
-* [dear car](http://www.leewhich.cn/articles/2019/10/15/1571150711959.html)
 * [Netty-TCP实践（一）](http://www.leewhich.cn/articles/2019/10/15/1571122531473.html)
 * [Netty-UDP实践（一）](http://www.leewhich.cn/articles/2019/10/15/1571122245722.html)
 * [安装Docker镜像仓库Harbor](http://www.leewhich.cn/articles/2019/10/15/1571121743523.html)
