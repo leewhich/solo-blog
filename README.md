@@ -33,8 +33,8 @@ leewhich 的笔记本
 
 ### 热门
 
-* [2019的旅行记---自驾青海甘肃大环线](http://www.leewhich.cn/articles/2019/10/15/1571109954290.html)
 * [k8s部署实践（一）搭建](http://www.leewhich.cn/articles/2019/10/15/1571108228226.html)
+* [2019的旅行记---自驾青海甘肃大环线](http://www.leewhich.cn/articles/2019/10/15/1571109954290.html)
 * [linux部署文件服务器](http://www.leewhich.cn/articles/2019/10/15/1571116356851.html)
 * [世界，你好！](http://www.leewhich.cn/hello-solo)
 * [linux通过nfs挂载共享文档](http://www.leewhich.cn/articles/2019/10/15/1571116600574.html)
