@@ -10,6 +10,7 @@ leewhich 的笔记本
 
 ### 最新
 
+* [IDEA全家桶激活码](http://www.leewhich.cn/articles/2019/11/25/1574643698824.html)
 * [k8s部署实践（一）主节点的高可用](http://www.leewhich.cn/articles/2019/11/20/1574214854230.html)
 * [k8s部署实践（四）Rook-Ceph](http://www.leewhich.cn/articles/2019/11/19/1574094291343.html)
 * [安装Docker镜像仓库Harbor(二)k8s拉取本地Harbor镜像](http://www.leewhich.cn/articles/2019/11/15/1573781597154.html)
@@ -29,15 +30,15 @@ leewhich 的笔记本
 * [Java解析串口数据（使用RXTX工具包）](http://www.leewhich.cn/articles/2019/10/15/1571121422881.html)
 * [多数据源实现读写分离实践](http://www.leewhich.cn/articles/2019/10/15/1571119936690.html)
 * [mysql5.7主从复制实践](http://www.leewhich.cn/articles/2019/10/15/1571119060644.html)
-* [cmd和linux常用命令汇总](http://www.leewhich.cn/articles/2019/10/15/1571116734151.html)
 
 ### 热门
 
 * [k8s部署实践（一）搭建](http://www.leewhich.cn/articles/2019/10/15/1571108228226.html)
 * [2019的旅行记---自驾青海甘肃大环线](http://www.leewhich.cn/articles/2019/10/15/1571109954290.html)
 * [linux部署文件服务器](http://www.leewhich.cn/articles/2019/10/15/1571116356851.html)
-* [世界，你好！](http://www.leewhich.cn/hello-solo)
+* [cmd和linux常用命令汇总](http://www.leewhich.cn/articles/2019/10/15/1571116734151.html)
 * [linux通过nfs挂载共享文档](http://www.leewhich.cn/articles/2019/10/15/1571116600574.html)
+* [世界，你好！](http://www.leewhich.cn/hello-solo)
 * [k8s部署实践（三）1.Deployment ](http://www.leewhich.cn/articles/2019/10/15/1571112720904.html)
 * [drools学习笔记（二）示例](http://www.leewhich.cn/articles/2019/10/15/1571102872058.html)
 * [drools学习笔记（一）语法](http://www.leewhich.cn/articles/2019/10/14/1571046304096.html)
